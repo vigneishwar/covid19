@@ -1,0 +1,9 @@
+{
+	"name": "covid19-proj",
+	"location": "australiasoutheast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4e18c7ab-afbf-4edc-a448-240ca4ca4372",
+		"tenantId": "6e5cd0ea-ade6-42ad-bc54-5027545a2914"
+	}
+}
